@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "protobufjs": "npm:protobufjs",
+        "@grpc/grpc-js": "npm:@grpc/grpc-js"
+    }
+}
